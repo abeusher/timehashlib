@@ -54,10 +54,12 @@ type Neighborhood struct {
 	after  string
 }
 
+/*
 func main() {
 	initMaps()
 	examples()
 }
+*/
 
 func examples() {
 	testHash := "af1cef0" // '2016-05-27T01:55:57.202148'
